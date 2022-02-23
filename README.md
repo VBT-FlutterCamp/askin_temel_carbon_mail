@@ -2,4 +2,5 @@
 
 Onboard screen and home screen of a simple mail app.
 
-![Video](https://raw.githubusercontent.com/VBT-FlutterCamp/askin_temel_carbon_mail/main/assets/videos/mailScreen.mp4)
+https://user-images.githubusercontent.com/60196167/155415248-19e35c1e-ab4c-4d20-804c-2a7f3c49870f.mp4
+
